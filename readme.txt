@@ -13,8 +13,8 @@ ORCID has been globally adopted, and at the time of writing (10 May 2016), there
 millions of ORCID iDs registered.
 
 Spring Social ORCID enables integration with ORCID with OrcidConnectionFactory, a connection 
-factory that can be plugged into Spring Social¡¯s service provider connection framework, and with an
-API binding to ORCID¡¯s REST API.
+factory that can be plugged into Spring Social's service provider connection framework, and with an
+API binding to ORCID's REST API.
 
 # How to get
 
@@ -32,8 +32,8 @@ local Maven repository:
 </dependency>
 
 As an extension to Spring Social, Spring Social ORCID depends on Spring Social.
-Spring Social¡¯s core module will be transitively resolved from the Spring Social ORCID dependency. 
-If you¡¯ll be using Spring Social¡¯s web module, you¡¯ll need to add that dependency yourself.
+Spring Social's core module will be transitively resolved from the Spring Social ORCID dependency. 
+If you'll be using Spring Social's web module, you'll need to add that dependency yourself.
 
 In Maven:
 
@@ -45,7 +45,7 @@ pom.xml
 </dependency>
 
 Note that Spring Social ORCID releases on a different schedule than Spring Social. Consequently, 
-Spring Social¡¯s version differs from that of Spring Social ORCID.
+Spring Social's version differs from that of Spring Social ORCID.
 
 # Configuring ORCID Connectivity
 
