@@ -66,7 +66,7 @@ orcid.accessTokenUrl=https://api.orcid.org/oauth/token
 
 Note: Spring Social ORCID currently supports ORCID API version 2.0
 
-# eferences:
+# References:
 
 1. Spring Social
 http://docs.spring.io/spring-social/docs/1.1.0.RELEASE/reference/htmlsingle/#section_implementing
